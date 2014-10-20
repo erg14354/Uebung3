@@ -3,7 +3,7 @@
 
 int calculate_result(int white_balls[5], int power_ball)
 {
-    return 0;
+    return null;
 }
 
 int main(int argc, char** argv)
@@ -28,3 +28,5 @@ int main(int argc, char** argv)
 
     return 0;
 }
+
+irgendwas
