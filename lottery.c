@@ -31,4 +31,9 @@ int main(int argc, char** argv)
 
 irgendwas
 iwas
+<<<<<<< HEAD
 asdd
+=======
+
+Kommentar 27.10.2014 8:49
+>>>>>>> df5c65a5a5181c539c1388288aa2e8e18ea0cc92
